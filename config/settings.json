@@ -1,0 +1,9 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://nahid123:nahid123@devconnector-i14dw.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI-local": "mongodb://127.0.0.1:27017/mern_test",
+    "jwtSecret": "~mM_jWt_SecR3t_T0k3n_!",
+    "githubClientId": "897e93cfe73b364f72ee",
+    "githubSecret": "e71d2d2d268796792a7b90e2a38f8cc76fe34434"
+}
+
